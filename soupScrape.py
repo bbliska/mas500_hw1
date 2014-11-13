@@ -2,11 +2,14 @@ import urllib2
 from bs4 import BeautifulSoup
 import csv
 import numpy
+import json
 
 class ElectionData:
-    def __init__(self,url,outfile):
+    def __init__(self,url,outfile,outfileJ):
         self.url=url
         self.outfile=outfile
+        self.outfileJ=outfileJ
+        #array representation of data:
         self.output=[]
         self.votes=[]
 
@@ -34,7 +37,7 @@ class ElectionData:
                     curr.append(strip_non_ascii(datum))
                 self.output.append(curr)
 
-        #write output arr data to .csv file of choice
+        #write output arr data to .csv file
         with open (self.outfile,'w') as csvfile:
             writer = csv.writer(csvfile,quotechar='|', quoting=csv.QUOTE_MINIMAL)
             writer.writerows(self.output)
@@ -42,7 +45,27 @@ class ElectionData:
         csvfile.close()
         page.close()
 
+
+        #write output arr data to .json file
+        toJSON=[]
+        for i in range(1,len(self.output)-1):
+            entry={
+                self.output[0][0]: self.output[i][0],
+                self.output[0][1]: self.output[i][1],
+                self.output[0][2]: self.output[i][2],
+                self.output[0][3]: self.output[i][3],
+                self.output[0][4]: self.output[i][4],
+                self.output[0][5]: self.output[i][5],
+                self.output[0][6]: self.output[i][6],
+            }
+            toJSON.append(entry)
+
+        with open(self.outfileJ, 'w') as f:
+            json.dump(toJSON, f,indent=2)
+        print 'Data written in .json format to file '+self.outfileJ+'.'
+
     def states(self):
+        print "Printing all states represented in data... \n"
         openfile=open(self.outfile, 'r')
         all_names = []
         lines=openfile.readlines()

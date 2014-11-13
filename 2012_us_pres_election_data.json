@@ -1,0 +1,461 @@
+[
+  {
+    "  Total Votes  ": "2074338", 
+    "Democratic Party": "795696", 
+    "   Others  ": "6992", 
+    "Republican Party": "1255925", 
+    "State": "AL", 
+    "Green Party": "3397", 
+    "Libertarian Party": "12328"
+  }, 
+  {
+    "  Total Votes  ": "297625", 
+    "Democratic Party": "122640", 
+    "   Others  ": "-", 
+    "Republican Party": "164676", 
+    "State": "AK", 
+    "Green Party": "2917", 
+    "Libertarian Party": "7392"
+  }, 
+  {
+    "  Total Votes  ": "2299254", 
+    "Democratic Party": "1025232", 
+    "   Others  ": "452", 
+    "Republican Party": "1233654", 
+    "State": "AZ", 
+    "Green Party": "7816", 
+    "Libertarian Party": "32100"
+  }, 
+  {
+    "  Total Votes  ": "1069468", 
+    "Democratic Party": "394409", 
+    "   Others  ": "1734", 
+    "Republican Party": "647744", 
+    "State": "AR", 
+    "Green Party": "9305", 
+    "Libertarian Party": "16276"
+  }, 
+  {
+    "  Total Votes  ": "13038547", 
+    "Democratic Party": "7854285", 
+    "   Others  ": "115455", 
+    "Republican Party": "4839958", 
+    "State": "CA", 
+    "Green Party": "85638", 
+    "Libertarian Party": "143221"
+  }, 
+  {
+    "  Total Votes  ": "2569217", 
+    "Democratic Party": "1322998", 
+    "   Others  ": "18121", 
+    "Republican Party": "1185050", 
+    "State": "CO", 
+    "Green Party": "7508", 
+    "Libertarian Party": "35540"
+  }, 
+  {
+    "  Total Votes  ": "1558960", 
+    "Democratic Party": "905083", 
+    "   Others  ": "5542", 
+    "Republican Party": "634892", 
+    "State": "CT", 
+    "Green Party": "863", 
+    "Libertarian Party": "12580"
+  }, 
+  {
+    "  Total Votes  ": "413921", 
+    "Democratic Party": "242584", 
+    "   Others  ": "31", 
+    "Republican Party": "165484", 
+    "State": "DE", 
+    "Green Party": "1940", 
+    "Libertarian Party": "3882"
+  }, 
+  {
+    "  Total Votes  ": "293764", 
+    "Democratic Party": "267070", 
+    "   Others  ": "772", 
+    "Republican Party": "21381", 
+    "State": "DC", 
+    "Green Party": "2458", 
+    "Libertarian Party": "2083"
+  }, 
+  {
+    "  Total Votes  ": "8474179", 
+    "Democratic Party": "4237756", 
+    "   Others  ": "19303", 
+    "Republican Party": "4163447", 
+    "State": "FL", 
+    "Green Party": "8947", 
+    "Libertarian Party": "44726"
+  }, 
+  {
+    "  Total Votes  ": "3897839", 
+    "Democratic Party": "1773827", 
+    "   Others  ": "-", 
+    "Republican Party": "2078688", 
+    "State": "GA", 
+    "Green Party": "-", 
+    "Libertarian Party": "45324"
+  }, 
+  {
+    "  Total Votes  ": "434697", 
+    "Democratic Party": "306658", 
+    "   Others  ": "-", 
+    "Republican Party": "121015", 
+    "State": "HI", 
+    "Green Party": "3184", 
+    "Libertarian Party": "3840"
+  }, 
+  {
+    "  Total Votes  ": "652274", 
+    "Democratic Party": "212787", 
+    "   Others  ": "4721", 
+    "Republican Party": "420911", 
+    "State": "ID", 
+    "Green Party": "4402", 
+    "Libertarian Party": "9453"
+  }, 
+  {
+    "  Total Votes  ": "5241179", 
+    "Democratic Party": "3019512", 
+    "   Others  ": "-", 
+    "Republican Party": "2135216", 
+    "State": "IL", 
+    "Green Party": "30222", 
+    "Libertarian Party": "56229"
+  }, 
+  {
+    "  Total Votes  ": "2624534", 
+    "Democratic Party": "1152887", 
+    "   Others  ": "368", 
+    "Republican Party": "1420543", 
+    "State": "IN", 
+    "Green Party": "625", 
+    "Libertarian Party": "50111"
+  }, 
+  {
+    "  Total Votes  ": "1574738", 
+    "Democratic Party": "822544", 
+    "   Others  ": "4882", 
+    "Republican Party": "730617", 
+    "State": "IA", 
+    "Green Party": "3769", 
+    "Libertarian Party": "12926"
+  }, 
+  {
+    "  Total Votes  ": "1158833", 
+    "Democratic Party": "440726", 
+    "   Others  ": "5017", 
+    "Republican Party": "692634", 
+    "State": "KS", 
+    "Green Party": "-", 
+    "Libertarian Party": "20456"
+  }, 
+  {
+    "  Total Votes  ": "1797212", 
+    "Democratic Party": "679370", 
+    "   Others  ": "7252", 
+    "Republican Party": "1087190", 
+    "State": "KY", 
+    "Green Party": "6337", 
+    "Libertarian Party": "17063"
+  }, 
+  {
+    "  Total Votes  ": "1994065", 
+    "Democratic Party": "809141", 
+    "   Others  ": "7527", 
+    "Republican Party": "1152262", 
+    "State": "LA", 
+    "Green Party": "6978", 
+    "Libertarian Party": "18157"
+  }, 
+  {
+    "  Total Votes  ": "711053", 
+    "Democratic Party": "401306", 
+    "   Others  ": "-", 
+    "Republican Party": "292276", 
+    "State": "ME", 
+    "Green Party": "8119", 
+    "Libertarian Party": "9352"
+  }, 
+  {
+    "  Total Votes  ": "2698539", 
+    "Democratic Party": "1677844", 
+    "   Others  ": "1521", 
+    "Republican Party": "971869", 
+    "State": "MD", 
+    "Green Party": "17110", 
+    "Libertarian Party": "30195"
+  }, 
+  {
+    "  Total Votes  ": "3161215", 
+    "Democratic Party": "1921290", 
+    "   Others  ": "-", 
+    "Republican Party": "1188314", 
+    "State": "MA", 
+    "Green Party": "20691", 
+    "Libertarian Party": "30920"
+  }, 
+  {
+    "  Total Votes  ": "4730961", 
+    "Democratic Party": "2564569", 
+    "   Others  ": "21465", 
+    "Republican Party": "2115256", 
+    "State": "MI", 
+    "Green Party": "21897", 
+    "Libertarian Party": "7774"
+  }, 
+  {
+    "  Total Votes  ": "2926028", 
+    "Democratic Party": "1546167", 
+    "   Others  ": "11515", 
+    "Republican Party": "1320225", 
+    "State": "MN", 
+    "Green Party": "13023", 
+    "Libertarian Party": "35098"
+  }, 
+  {
+    "  Total Votes  ": "1285584", 
+    "Democratic Party": "562949", 
+    "   Others  ": "3625", 
+    "Republican Party": "710746", 
+    "State": "MS", 
+    "Green Party": "1588", 
+    "Libertarian Party": "6676"
+  }, 
+  {
+    "  Total Votes  ": "2757323", 
+    "Democratic Party": "1223796", 
+    "   Others  ": "7936", 
+    "Republican Party": "1482440", 
+    "State": "MO", 
+    "Green Party": "-", 
+    "Libertarian Party": "43151"
+  }, 
+  {
+    "  Total Votes  ": "483932", 
+    "Democratic Party": "201839", 
+    "   Others  ": "-", 
+    "Republican Party": "267928", 
+    "State": "MT", 
+    "Green Party": "-", 
+    "Libertarian Party": "14165"
+  }, 
+  {
+    "  Total Votes  ": "790662", 
+    "Democratic Party": "302081", 
+    "   Others  ": "2408", 
+    "Republican Party": "475064", 
+    "State": "NE", 
+    "Green Party": "-", 
+    "Libertarian Party": "11109"
+  }, 
+  {
+    "  Total Votes  ": "1009148", 
+    "Democratic Party": "531373", 
+    "   Others  ": "3240", 
+    "Republican Party": "463567", 
+    "State": "NV", 
+    "Green Party": "-", 
+    "Libertarian Party": "10968"
+  }, 
+  {
+    "  Total Votes  ": "708399", 
+    "Democratic Party": "369561", 
+    "   Others  ": "708", 
+    "Republican Party": "329918", 
+    "State": "NH", 
+    "Green Party": "-", 
+    "Libertarian Party": "8212"
+  }, 
+  {
+    "  Total Votes  ": "3638499", 
+    "Democratic Party": "2122786", 
+    "   Others  ": "6704", 
+    "Republican Party": "1478088", 
+    "State": "NJ", 
+    "Green Party": "9886", 
+    "Libertarian Party": "21035"
+  }, 
+  {
+    "  Total Votes  ": "783757", 
+    "Democratic Party": "415335", 
+    "   Others  ": "2156", 
+    "Republican Party": "335788", 
+    "State": "NM", 
+    "Green Party": "2691", 
+    "Libertarian Party": "27787"
+  }, 
+  {
+    "  Total Votes  ": "6652274", 
+    "Democratic Party": "4018385", 
+    "   Others  ": "405235", 
+    "Republican Party": "2145628", 
+    "State": "NY", 
+    "Green Party": "37826", 
+    "Libertarian Party": "45200"
+  }, 
+  {
+    "  Total Votes  ": "4493920", 
+    "Democratic Party": "2178391", 
+    "   Others  ": "619", 
+    "Republican Party": "2270395", 
+    "State": "NC", 
+    "Green Party": "-", 
+    "Libertarian Party": "44515"
+  }, 
+  {
+    "  Total Votes  ": "322932", 
+    "Democratic Party": "124966", 
+    "   Others  ": "3046", 
+    "Republican Party": "188320", 
+    "State": "ND", 
+    "Green Party": "1362", 
+    "Libertarian Party": "5238"
+  }, 
+  {
+    "  Total Votes  ": "5580831", 
+    "Democratic Party": "2827621", 
+    "   Others  ": "23736", 
+    "Republican Party": "2661407", 
+    "State": "OH", 
+    "Green Party": "18574", 
+    "Libertarian Party": "49493"
+  }, 
+  {
+    "  Total Votes  ": "1334872", 
+    "Democratic Party": "443547", 
+    "   Others  ": "-", 
+    "Republican Party": "891325", 
+    "State": "OK", 
+    "Green Party": "-", 
+    "Libertarian Party": "-"
+  }, 
+  {
+    "  Total Votes  ": "1775995", 
+    "Democratic Party": "970488", 
+    "   Others  ": "7816", 
+    "Republican Party": "754175", 
+    "State": "OR", 
+    "Green Party": "19427", 
+    "Libertarian Party": "24089"
+  }, 
+  {
+    "  Total Votes  ": "5741490", 
+    "Democratic Party": "2990274", 
+    "   Others  ": "-", 
+    "Republican Party": "2680434", 
+    "State": "PA", 
+    "Green Party": "21341", 
+    "Libertarian Party": "49441"
+  }, 
+  {
+    "  Total Votes  ": "446049", 
+    "Democratic Party": "279677", 
+    "   Others  ": "2359", 
+    "Republican Party": "157204", 
+    "State": "RI", 
+    "Green Party": "2421", 
+    "Libertarian Party": "4388"
+  }, 
+  {
+    "  Total Votes  ": "1964118", 
+    "Democratic Party": "865941", 
+    "   Others  ": "4765", 
+    "Republican Party": "1071645", 
+    "State": "SC", 
+    "Green Party": "5446", 
+    "Libertarian Party": "16321"
+  }, 
+  {
+    "  Total Votes  ": "363815", 
+    "Democratic Party": "145039", 
+    "   Others  ": "2371", 
+    "Republican Party": "210610", 
+    "State": "SD", 
+    "Green Party": "-", 
+    "Libertarian Party": "5795"
+  }, 
+  {
+    "  Total Votes  ": "2456838", 
+    "Democratic Party": "960709", 
+    "   Others  ": "8661", 
+    "Republican Party": "1462330", 
+    "State": "TN", 
+    "Green Party": "6515", 
+    "Libertarian Party": "18623"
+  }, 
+  {
+    "  Total Votes  ": "7993851", 
+    "Democratic Party": "3308124", 
+    "   Others  ": "2647", 
+    "Republican Party": "4569843", 
+    "State": "TX", 
+    "Green Party": "24657", 
+    "Libertarian Party": "88580"
+  }, 
+  {
+    "  Total Votes  ": "1017008", 
+    "Democratic Party": "251813", 
+    "   Others  ": "8206", 
+    "Republican Party": "740600", 
+    "State": "UT", 
+    "Green Party": "3817", 
+    "Libertarian Party": "12572"
+  }, 
+  {
+    "  Total Votes  ": "299290", 
+    "Democratic Party": "199239", 
+    "   Others  ": "3866", 
+    "Republican Party": "92698", 
+    "State": "VT", 
+    "Green Party": "-", 
+    "Libertarian Party": "3487"
+  }, 
+  {
+    "  Total Votes  ": "3847243", 
+    "Democratic Party": "1971820", 
+    "   Others  ": "13058", 
+    "Republican Party": "1822522", 
+    "State": "VA", 
+    "Green Party": "8627", 
+    "Libertarian Party": "31216"
+  }, 
+  {
+    "  Total Votes  ": "3125516", 
+    "Democratic Party": "1755396", 
+    "   Others  ": "16320", 
+    "Republican Party": "1290670", 
+    "State": "WA", 
+    "Green Party": "20928", 
+    "Libertarian Party": "42202"
+  }, 
+  {
+    "  Total Votes  ": "670556", 
+    "Democratic Party": "238230", 
+    "   Others  ": "4035", 
+    "Republican Party": "417584", 
+    "State": "WV", 
+    "Green Party": "4593", 
+    "Libertarian Party": "6114"
+  }, 
+  {
+    "  Total Votes  ": "3071434", 
+    "Democratic Party": "1620985", 
+    "   Others  ": "11379", 
+    "Republican Party": "1407966", 
+    "State": "WI", 
+    "Green Party": "7665", 
+    "Libertarian Party": "20439"
+  }, 
+  {
+    "  Total Votes  ": "249061", 
+    "Democratic Party": "69286", 
+    "   Others  ": "3487", 
+    "Republican Party": "170962", 
+    "State": "WY", 
+    "Green Party": "-", 
+    "Libertarian Party": "5326"
+  }
+]

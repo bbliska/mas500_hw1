@@ -1,7 +1,8 @@
 from soupScrape import ElectionData
 url='http://www.archives.gov/federal-register/electoral-college/2012/popular-vote.html'
 outfile='2012_us_pres_election_data.csv'
-data=ElectionData(url,outfile)
+outfileJ='2012_us_pres_election_data.json'
+data=ElectionData(url,outfile,outfileJ)
 #load module
 data.load()
 #list states represented in data
